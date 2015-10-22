@@ -1,4 +1,4 @@
-package modelo;
+package br.edu.utfpr.modelo;
 
 public class Pessoa {
     private String nome, sobrenome;

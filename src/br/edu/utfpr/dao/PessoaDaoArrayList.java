@@ -1,7 +1,7 @@
-package dao;
+package br.edu.utfpr.dao;
 
 import java.util.ArrayList;
-import modelo.Pessoa;
+import br.edu.utfpr.modelo.Pessoa;
 
 public class PessoaDaoArrayList implements Dao {
     

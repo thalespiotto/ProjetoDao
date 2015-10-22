@@ -1,6 +1,6 @@
-package dao;
+package br.edu.utfpr.dao;
 
-import modelo.Pessoa;
+import br.edu.utfpr.modelo.Pessoa;
 
 public class PessoaDaoVetor implements Dao {
 
